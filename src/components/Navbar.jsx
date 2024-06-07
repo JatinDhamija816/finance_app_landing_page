@@ -1,7 +1,5 @@
 import React from 'react'
 import logo from '../images/logo.png'
-import LightModeIcon from '@mui/icons-material/LightMode';
-import NightlightIcon from '@mui/icons-material/Nightlight';
 const Navbar = () => {
     return (
         <div className=''>
