@@ -6,7 +6,7 @@ const Navbar = () => {
             <nav className='flex mt-8 md:flex-col md:mx-auto '>
                 <div className='px-10 flex justify-center items-center '>
                     <img src={logo} className='' alt="" />
-                    <h1 className='font-bold text-2xl'>uifry</h1>
+                    <h1 className='font-bold text-2xl md:text-3xl'>uifry</h1>
                 </div>
                 <div className='flex justify-between w-full'>
                     <div className=' flex '>
