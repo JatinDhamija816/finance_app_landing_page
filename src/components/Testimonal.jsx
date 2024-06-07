@@ -12,7 +12,7 @@ const Testimonal = () => {
                 <div className='w-1/2 md:w-full'>
                     <img src={testimonal} className='' alt="" />
                 </div>
-                <div className='w-1/2 px-10 md:w-full'>
+                <div className='w-1/2 px-10 lg:w-full'>
                     <h1 className='capitalize font-bold text-2xl'>The Best Financial accounting app ever! </h1>
                     <p className='tracking-widest my-3'>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur error eos veritatis magni inventore quaerat, dicta exercitationem quisquam commodi non nesciunt quam facere culpa est natus voluptates laboriosam modi optio sit corrupti maiores similique? Obcaecati laboriosam molestiae dolorem saepe! Animi reprehenderit molestias facere nemo excepturi eum. Sapiente qui odit olestiae?"</p>
                     <img src={people} alt="" />
