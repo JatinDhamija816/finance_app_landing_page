@@ -6,7 +6,7 @@ import Square from '../images/featuresSquare.png'
 
 const Features = () => {
     return (
-        <div className='flex  justify-between items-center md:mt-8 md:flex-col'>
+        <div className='flex  justify-between items-center md:flex-col'>
             <div className='w-1/2 lg:hidden'>
                 <img src={Ring} alt="" />
             </div>
